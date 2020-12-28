@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">Генератор паролей</string>
+    <string name="generate_password">Сгенерировать</string>
+    <string name="copy_password">Скопировать</string>
+    <string name="length_password">Длина пароля</string>
+    <string name="first_text">
+        Для надежности рекомендуем использовать пароль длиной от 8 символов c цифрами, буквами,
+        спецсимволами и использовать разный регистр для букв.
+
+    </string>
 </resources>
